@@ -216,7 +216,4 @@ LinkedIn: https://linkedin.com/in/ajay-singh-03169034a
 
 
 
-GitHub: https://github.com/YourGitHubUsername
-
-
 
